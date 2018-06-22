@@ -1,3 +1,5 @@
 .build
 project1.xcodeproj/xcuserdata
 project1.xcodeproj/xcshareddata
+project1.xcodeproj/project.xcworkspace/xcuserdata/
+Public/.DS_Store

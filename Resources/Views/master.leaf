@@ -51,7 +51,7 @@
 
     <footer class="container">
       <p>Copyright &copy; 2018 Million Hairs Veterinary Clinic</p>
-      <p style="text-align: center;"><img src="/logo.png" style="width: 116px;" /></p>
+      <p style="text-align: center;"><img src="/logo.png" style="width: 200px;" /></p>
     </footer>
 
     <!-- Bootstrap core JavaScript
