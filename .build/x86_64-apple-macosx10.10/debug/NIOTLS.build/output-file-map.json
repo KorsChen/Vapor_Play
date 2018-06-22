@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/master.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOTLS/SNIHandler.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOTLS/TLSEvents.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

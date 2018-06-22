@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
+options: "28e99534366e9bcd9befe1f91f147b72"
+build_time: [1529605512, 943492000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/App/boot.swift": [1528740481, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/App/configure.swift": [1529589448, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/App/routes.swift": [1529586221, 0]

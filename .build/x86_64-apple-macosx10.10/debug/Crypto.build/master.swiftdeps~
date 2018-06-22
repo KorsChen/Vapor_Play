@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "4e2642300ce916e7e31f9fbcb86f82f5"
+build_time: [1529403327, 183724000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/BCrypt/BCryptDigest.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Cipher/Cipher.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Digest/Digest.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Digest/DigestAlgorithm.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/MAC/HMAC.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/RSA/RSA.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/RSA/RSAKey.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/RSA/RSAPadding.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Random/CryptoRandom.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Utilities/CryptoError.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Utilities/Deprecated.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Crypto/Utilities/Exports.swift": [1528740623, 0]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "e053b2bbc19ab8f1feca9012d7328994"
+build_time: [1529403327, 687772000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Parser/Byte+Leaf.swift": [1528741218, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Parser/LeafParser.swift": [1528741218, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Renderer/LeafRenderer.swift": [1528741218, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Service/LeafConfig.swift": [1528741218, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Service/LeafProvider.swift": [1528741218, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Utilities/Data.swift": [1528741218, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/leaf.git--4441051888481882682/Sources/Leaf/Utilities/Exports.swift": [1528741218, 0]

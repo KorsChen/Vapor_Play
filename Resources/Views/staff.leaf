@@ -1,0 +1,26 @@
+#set("staff") {
+    <p>Choose a staff member to view:</p>
+    <ul>
+    #for(name in allNames) {
+        <li><a href="/staff/#(name)">#capitalize(name)</a></li>
+    }
+    </ul>
+}
+
+#if(name) {
+    #set("title") {#capitalize(name)}
+    #set("h1") {#capitalize(name)}
+    #set("body") {
+        <p>#(bio)</p>
+        #get(staff)
+    }
+} else {
+    #set("title") {Staff}
+    #set("h1") {Unknown staff member}
+    #set("body") {
+        <p>We didn't recognize that person.</p>
+        #get(staff)
+    }
+}
+
+#embed("master")

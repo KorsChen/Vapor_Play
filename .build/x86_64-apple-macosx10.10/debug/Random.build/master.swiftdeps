@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
+options: "b1be72e53f01372a0c3faedc6a2b38c1"
+build_time: [1529605485, 621782000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/Array+Random.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/OSRandom.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/RandomProtocol.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/URandom.swift": [1528740623, 0]

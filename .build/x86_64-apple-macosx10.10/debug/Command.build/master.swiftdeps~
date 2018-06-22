@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "cda403bfc69964e430dafb028609ada7"
+build_time: [1529403327, 683428000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Base/CommandOption.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Base/CommandRunnable.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Command/Command.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Command/CommandArgument.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Config/CommandConfig.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Config/Commands.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Group/BasicCommandGroup.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Group/CommandGroup.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Run/CommandContext.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Run/CommandInput.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Run/Console+Run.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Run/Output+Autocomplete.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Run/Output+Help.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Utilities/CommandError.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Utilities/Exports.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Command/Utilities/Utilities.swift": [1528740624, 0]

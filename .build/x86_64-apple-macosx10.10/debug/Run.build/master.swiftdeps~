@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "2f9c65d78f54907686557a211656c53a"
+build_time: [1529403328, 550143000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/Run/main.swift": [1528740481, 0]

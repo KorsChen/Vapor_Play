@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/Array+Random.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/OSRandom.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/RandomProtocol.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/crypto.git-700608418537036370/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom.swiftdeps"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/master.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOPriorityQueue/Heap.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOPriorityQueue/PriorityQueue.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swiftdeps"
+  }
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "ef4a9bb90f67c1d476c6ff2db03e64a6"
+build_time: [1529403326, 784866000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/BitsError.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Byte+Alphabet.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Byte+Control.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Byte+Digit.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/ByteBuffer+peek.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/ByteBuffer+require.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/ByteBuffer+string.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Bytes.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Data+Bytes.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Data+Strings.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Bits/Deprecated.swift": [1528740622, 0]

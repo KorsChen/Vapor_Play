@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
+options: "b9cf7bbd7a8d64b1a553d92cc470a069"
+build_time: [1529605489, 976793000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/Exports.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/FormDataDecoder.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/FormDataEncoder.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/MultipartError.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/MultipartParser.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/MultipartPart.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/MultipartPartConvertible.swift": [1528740622, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/multipart.git--6951104952229406714/Sources/Multipart/MultipartSerializer.swift": [1528740622, 0]

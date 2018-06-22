@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "41234c20b5f840abad682f76cb9107ff"
+build_time: [1529403323, 438661000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/COperatingSystem/libc.swift": [1528740622, 0]

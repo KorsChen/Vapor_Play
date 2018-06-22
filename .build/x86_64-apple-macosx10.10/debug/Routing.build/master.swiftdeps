@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
+options: "55c6db4f60fcb2e4c3af798ec7533cd7"
+build_time: [1529605497, 87120000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Parameter/Parameter.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Parameter/ParameterValue.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Parameter/Parameters.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Register/PathComponent.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Register/Route.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Register/RouterOption.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Routing/RoutableComponent.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Routing/RouterNode.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Routing/TrieRouter.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Utilities/Deprecated.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Utilities/Exports.swift": [1528740623, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/routing.git--5664823873414426140/Sources/Routing/Utilities/RoutingError.swift": [1528740623, 0]

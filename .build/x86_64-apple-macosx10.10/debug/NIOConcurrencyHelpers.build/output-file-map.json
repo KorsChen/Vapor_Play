@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

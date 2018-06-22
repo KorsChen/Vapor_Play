@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/App/boot.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/boot.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/App/configure.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/configure.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/Sources/App/routes.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/routes.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swiftdeps"
+  }
+}

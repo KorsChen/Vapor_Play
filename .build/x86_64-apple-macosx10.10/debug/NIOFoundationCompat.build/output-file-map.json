@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/swift-nio.git--8234561371585672779/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": {
+    "dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.d",
+    "object": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swift.o",
+    "swiftmodule": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/chenzhipeng/Desktop/server/project1/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swiftdeps"
+  }
+}

@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.16.7 clang-1000.10.25.3)"
+options: "f30fba2e76db4d71b6a3d6dd1b049184"
+build_time: [1529403327, 183535000]
+inputs:
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Exports.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validatable.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/ValidationError.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validations.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/ValidatorType.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/AndValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/CharacterSetValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/CountValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/EmailValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/InValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/NilIgnoringValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/NilValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/NotValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/OrValidator.swift": [1528740624, 0]
+  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/validation.git-304928423562096583/Sources/Validation/Validators/RangeValidator.swift": [1528740624, 0]
