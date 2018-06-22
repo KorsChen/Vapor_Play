@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
-options: "16d19a4f0594e337135f78561a03d368"
-build_time: [1529605489, 976681000]
-inputs:
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Logging/Exports.swift": [1528740624, 0]
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Logging/LogLevel.swift": [1528740624, 0]
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Logging/Logger.swift": [1528740624, 0]
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/console.git--7260679068825026275/Sources/Logging/PrintLogger.swift": [1528740624, 0]

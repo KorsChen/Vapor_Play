@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.0.16.9 clang-1000.10.25.3)"
-options: "047d9560a60bee1057f0994f3f727067"
-build_time: [1529605475, 626558000]
-inputs:
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Debugging/Debuggable.swift": [1528740622, 0]
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Debugging/Demangler.swift": [1528740622, 0]
-  "/Users/chenzhipeng/Desktop/server/project1/.build/checkouts/core.git-773133103003007312/Sources/Debugging/SourceLocation.swift": [1528740622, 0]
